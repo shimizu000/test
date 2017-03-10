@@ -1,0 +1,11 @@
+\\192.168.32.43\share\XX_情報セキュリティクラウド\777_JoruriCMS操作マニュアル
+ zomeki3のマニュアル
+
+http://techfun.cc/java/windows-eclipse-install.html
+ eclipceインストール手順
+
+https://techacademy.jp/magazine/6235
+ git コマンド
+
+https://github.com/shimizu000/test
+ gitリポジトリ
